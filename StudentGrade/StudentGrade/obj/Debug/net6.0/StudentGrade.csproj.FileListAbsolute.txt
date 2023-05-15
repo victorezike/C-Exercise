@@ -1,0 +1,15 @@
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\bin\Debug\net6.0\StudentGrade.exe
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\bin\Debug\net6.0\StudentGrade.deps.json
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\bin\Debug\net6.0\StudentGrade.runtimeconfig.json
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\bin\Debug\net6.0\StudentGrade.dll
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\bin\Debug\net6.0\StudentGrade.pdb
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\obj\Debug\net6.0\StudentGrade.csproj.AssemblyReference.cache
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\obj\Debug\net6.0\StudentGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\obj\Debug\net6.0\StudentGrade.AssemblyInfoInputs.cache
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\obj\Debug\net6.0\StudentGrade.AssemblyInfo.cs
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\obj\Debug\net6.0\StudentGrade.csproj.CoreCompileInputs.cache
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\obj\Debug\net6.0\StudentGrade.dll
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\obj\Debug\net6.0\refint\StudentGrade.dll
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\obj\Debug\net6.0\StudentGrade.pdb
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\obj\Debug\net6.0\StudentGrade.genruntimeconfig.cache
+C:\Users\creat\Desktop\Projects\test-soln\StudentGrade\StudentGrade\obj\Debug\net6.0\ref\StudentGrade.dll
